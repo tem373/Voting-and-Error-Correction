@@ -1,5 +1,5 @@
 # Cryptothelema
-Blockchain based democratic voting infrastructure incorporating error-detecting mechanisms. All programs written in the Go language. 
+Exploration of distributed system paradigms for use in democratic voting infrastructure incorporating error-detecting mechanisms.
 
 Collaborative Project by Inavamsi B. Enaghanti and Thomas E. Mason under supervision of Bhubaneswar Mishra
 
